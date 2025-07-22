@@ -112,7 +112,7 @@ Silakan fork & kembangkan lebih jauh jadi RESTful API full CRUD.
 
 ## 🧑‍💻 Author
 
-Made with ❤️ by [Nama Kamu](https://github.com/namakamu)
+Made with ❤️ by [saichul huda](https://github.com/SaichulHuda95)
 
 ---
 
